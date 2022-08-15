@@ -1,8 +1,25 @@
 body
 {
+    color: #333;
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', ;
-    background-color: blueviolet;
-    color: azure;
-    
+    font-family: Arial ;
+    font-size: 18 px;
+    margin: 0;
+    padding: 0;
+}
+#container
+{
+    width: 50%;
+    padding: 1em;
+    border-bottom: 3px solid #fafa;
+    border-right: 10px solid #FFF2333;
+    border-left: 10px solid #33beff;
+    birder-top: 3px solid #ff8533;
+    text-align: center;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+#container h1
+{
+    font-size: 20px;
 }
