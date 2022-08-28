@@ -3,17 +3,17 @@ body
     background: #1e1f24;
     color: #333;
     text-align: center;
-    font-family: Arial;
-    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
     margin: 0;
     padding: 0;
 }
 
 #cabecera
 {
-    background: #37488b;
+    background:#37488b;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color: white;
+    color:gray;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
@@ -35,9 +35,9 @@ body
 #container
 {
     width: 70%;
-    padding: 0;
+    padding:0;
     text-align: left;
-    border: 1px solid #DDD;
+    border:1px solid #DDD;
     margin: 0 auto;
 }
 
@@ -45,8 +45,23 @@ body
 {
     font-size: 20px;
 }
+
 #post
 {
     background: white;
     padding: 1em;
+<<<<<<< HEAD
 }
+=======
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: o.5em;
+}
+
+
+
