@@ -1,4 +1,4 @@
-# Hyperblog ðŸ’š
+# Hyperblog
 Un blog increi­ble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 > El curso de Git y Github de Platzi es un buen curso para sentar las bases y ser un buen programador
 > - anciano
